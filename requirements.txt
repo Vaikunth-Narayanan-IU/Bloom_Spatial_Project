@@ -1,0 +1,8 @@
+streamlit>=1.28.0
+pandas
+geopy
+python-dateutil
+Pillow
+pytesseract
+pdf2image
+pytest
